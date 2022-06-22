@@ -1,7 +1,7 @@
 {
   "unpublishedPage": {
-    "name": "Child_Page",
-    "slug": "child-page",
+    "name": "Child_Page Copy",
+    "slug": "child-page-copy",
     "layouts": [
       {
         "viewMode": false,
@@ -142,7 +142,7 @@
         "layoutOnLoadActions": [
           [
             {
-              "id": "Child_Page_get_users",
+              "id": "Child_Page Copy_get_users",
               "name": "get_users",
               "confirmBeforeExecute": false,
               "pluginType": "DB",
@@ -152,7 +152,7 @@
           ]
         ],
         "validOnPageLoadActions": true,
-        "id": "Child_Page",
+        "id": "Child_Page Copy",
         "deleted": false,
         "policies": [],
         "userPermissions": []
@@ -160,8 +160,8 @@
     ],
     "userPermissions": [],
     "policies": [],
-    "isHidden": true
+    "isHidden": false
   },
   "deleted": false,
-  "gitSyncId": "62b2995bd52a7b27a518bcfe_62b29969d52a7b27a518bd1c"
+  "gitSyncId": "62b2995bd52a7b27a518bcfe_62b2999ad52a7b27a518bd20"
 }
